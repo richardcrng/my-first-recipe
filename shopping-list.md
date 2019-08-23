@@ -2,3 +2,8 @@
 - Ham
 - Cheese
 - Bread
+- Jam
+- Peas
+- Salsa
+- Guacamole
+- Huel
