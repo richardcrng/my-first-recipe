@@ -1,0 +1,4 @@
+- Eggs
+- Ham
+- Cheese
+- Bread
